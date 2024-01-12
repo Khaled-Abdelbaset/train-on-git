@@ -1,2 +1,2 @@
-#Training on Git & GitHub
-Training 
+# Training 
+Training on Git & GitHub!
